@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Allow specific files/directories
+!index.html
+!밀리의서재 이력서.html
+!뷰티컬렉션 이력서.html
+!assets/
+!assets/**
+!.nojekyll
+!.gitignore
